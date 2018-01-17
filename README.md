@@ -1,0 +1,2 @@
+# end-to-end-encryption
+Using DrRacket, I have built an algorithm that converts a text message to a non-comprehensible form of a number which cannot be decrypted easily to the text back, except from the same algorithm. I have used the concepts of RSA and cryptography while coding the algorithm for such an encryption. This encryption system would thus, enable high transmission of data from one unit to the other with full security, saving it from the eyes of third party components and proprietors.
